@@ -1,0 +1,15 @@
+# Не учитывать виртуальное окружение
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Не учитывать настройки Jupyter
+etc/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+
+# Системные файлы
+.DS_Store
+
